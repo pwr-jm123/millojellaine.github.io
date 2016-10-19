@@ -68,7 +68,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" src="" alt="">
+                    <img class="img-responsive" src="https://lh3.googleusercontent.com/-jxjMxJtt5qg/V9KOzCi5R9I/AAAAAAAAAEE/IcTFoB7SYdU7VrPzMVjF9RoCqCIgN1Q1QCEw/w140-h140-p/jam.jpg" alt="">
                     <div class="intro-text">
                         <span class="name">Start Bootstrap</span>
                         <hr class="star-light">
@@ -78,81 +78,6 @@
             </div>
         </div>
     </header>
-
-    <!-- Portfolio Grid Section -->
-    <section id="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>Portfolio</h2>
-                    <hr class="star-primary">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/cabin.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/cake.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/circus.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/game.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/safe.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-
     <!-- About Section -->
     <section class="success" id="about">
         <div class="container">
@@ -164,14 +89,54 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                    <h3 id="PS"> PERSONAL SKILLS </h3>
+                    <dd> Excellent English Skills </dd>
+
+    <dd>High level of maturity and sense of responsibility</dd>
+
+           <dd>Sound Time management skills</dd>
+
+    <dd>Highly resourceful, objective and reliable</dd>
+
+    <dd>Ability to work in a team driven environment</dd>
+
                 </div>
                 <div class="col-lg-4">
-                    <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
+                    <h3 id="TS"> TECHNICAL SKILLS </h3>
+                <dd>Web development and Web design </dd>
+
+    <dd>Web and mobile app development</dd>
+
+    <dd>Programming and Front end coding</dd>
+
+    <dd>Graphic design and video editing</dd>
+
+    <dd><strong>Operating Systems</strong>: Windows, Mac OS X, Android and Linux</dd>
+
+    <dd><strong>Languages</strong>: C, C++, HTML, CSS, PHP, JAVA, and RUBY</dd>
+
+    <dd><strong>Applications</strong>: MS Office, Photoshop, Illustrator, Dreamweaver, AfterEffects</dd>
+
+    <dd><strong>Others</strong>: Wordpress, Joomla, Drupal, and WooCommerce</dd>
                 </div>
+                 <div class="col-lg-4">
+  <h3 id="TA"> TRAININGS ATTENDED </h3>   
+                     <dd><Form>Function() Class Web Design Conference 2018</dd>
+
+    <dd>De La Salle University - Manila </dd>
+
+    <dd>January 12, 2018</dd>
+
+    <dd>12th Youth Congress on Information Technology</dd>
+
+    <dd>SMX Convention Center, Pasay City </dd>
+
+    <dd>March 17, 2018</dd>
+                </div>
+                
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <a href="#" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i> Download Theme
+                        <i class="fa fa-download"></i> 
                     </a>
                 </div>
             </div>
@@ -240,8 +205,8 @@
                 <div class="row">
                     <div class="footer-col col-md-4">
                         <h3>Location</h3>
-                        <p>3481 Melrose Place
-                            <br>Beverly Hills, CA 90210</p>
+                        <p>#4B M.Roxas 
+                            <br>Lower Brookside, Baguio City</p>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Around the Web</h3>
